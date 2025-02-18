@@ -1,0 +1,7 @@
+secrets/
+secrets/*
+.terraform/*
+.terraform/
+.terraform
+.terraform.*
+terraform.*
